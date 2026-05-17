@@ -1,0 +1,28 @@
+author: M. Pahrul Amri - 054118657
+
+struktur:
+sitta-v2/
+    index.html (login)
+    dashboard.html
+    stok.html
+    tracking.html
+
+    css/
+        style.css
+
+    js/
+        data.js
+        dataBahanAjar.js
+        login-app.js
+        dashboard-app.js
+        stok-app.js
+        tracking-app.js
+
+    assets/
+        img/
+
+note:
+html
+css
+javascript (vue.js)
+bootstrap
