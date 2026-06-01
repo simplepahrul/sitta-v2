@@ -105,5 +105,5 @@ SITTA V2 diharapkan menjadi representasi pengembangan sistem informasi berbasis 
 > “Talk is cheap. Show me the code.”  
 > — Linus Torvalds
 
-> “First solve the problem, then write the code.”  
-> — John Johnson
+> “Stay hard.”  
+> — David Goggins
