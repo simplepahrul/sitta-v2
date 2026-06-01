@@ -1,6 +1,6 @@
 # SISTEM INFORMASI TIRAS DAN TRANSAKSI BAHAN AJAR (SITTA V2)
 
-Sistem informasi berbasis web untuk simulasi pengelolaan stok bahan ajar, tracking delivery order (DO), dan transaksi sederhana berbasis Vue.js.
+Sistem informasi berbasis web untuk simulasi pengelolaan stok bahan ajar, tracking Delivery Order (DO), dan proses transaksi distribusi bahan ajar berbasis Vue.js.
 
 ---
 
